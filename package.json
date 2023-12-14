@@ -24,13 +24,13 @@
     "bignumber.js": "9.0.0",
     "ethereumjs-abi": "0.6.7",
     "ethereumjs-tx": "1.3.3",
-    "ethereumjs-util": "5.1.2",
+    "ethereumjs-util": "5.1.3",
     "keythereum": "1.0.4",
     "lodash": "4.17.21",
     "readline-sync": "1.4.10",
     "sockjs-client": "1.3.0",
     "stompjs": "2.3.3",
-    "web3": "1.7.5",
+    "web3": "4.0.1",
     "web3-utils": "1.6.0"
   }
 }
