@@ -24,7 +24,7 @@
     "bignumber.js": "9.0.0",
     "ethereumjs-abi": "0.6.7",
     "ethereumjs-tx": "2.1.2",
-    "ethereumjs-util": "5.2.1",
+    "ethereumjs-util": "6.0.0",
     "keythereum": "2.0.0",
     "lodash": "4.17.21",
     "readline-sync": "1.4.10",
